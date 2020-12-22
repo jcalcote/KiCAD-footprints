@@ -15,7 +15,15 @@ Footprint | 3D Model
 
 Footprint | 3D Model
 --------- | --------
-![Switech SW-TS3545 Footprint](Switech-SW-TS3545.pretty/Switech-SW-TS3545-footprint.png) | ![Switech SW-TS3545 Footprint](Switech-SW-TS3545.pretty/Switech-SW-TS3545.png)
+![Switech SW-TS3545 Footprint](Switech-SW-TS3545.pretty/Switech-SW-TS3545-footprint.png) | ![Switech SW-TS3545 3D Model](Switech-SW-TS3545.pretty/Switech-SW-TS3545.png)
+
+## Würth WE-140816144100 Opto Isolator - PCB SMD
+
+[Würth 140816144100](https://www.we-online.com/catalog/datasheet/140816144100.pdf)
+
+Footprint | 3D Model
+--------- | --------
+![Würth 140816144100 Footprint](Wurth-WE140816144100.pretty/Wurth_140816144100_SMD-footprint.png) | ![Würth 140816144100 3D Model](Wurth-WE140816144100.pretty/Wurth_140816144100_SMD.png)
 
 # License
 
